@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GMA3>
+<Plugin Path="" Name="StartShow-Krucki-Startup"><ComponentLua Name="KruckiMA" Installed="Yes" FileName="KruckiMAStart.lua"/>
+</Plugin>
+</GMA3>

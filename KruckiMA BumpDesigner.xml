@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GMA3>
+<Plugin Path="" Name="Krucki - BumpDesigner">
+<ComponentLua Name="KruckiMA - BumpDesigner" Installed="Yes" FileName="KruckiMABumpDesigner.lua"/>
+<ComponentLua Name="Krucki - Configurations" Installed="Yes" FileName="Configs.lua"/>
+</Plugin>
+</GMA3>

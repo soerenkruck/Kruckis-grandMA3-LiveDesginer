@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GMA3>
+<Plugin Path="" Name="Krucki - Configurations">
+<ComponentLua Name="KruckiMA" Installed="Yes" FileName="Configs.lua"/>
+</Plugin>
+</GMA3>
